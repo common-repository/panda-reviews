@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'open-sans-semibold';
+    src: url('scss/fonts/opensans_semibold_macroman/OpenSans-Semibold-webfont.eot');
+    src: url('scss/fonts/opensans_semibold_macroman/OpenSans-Semibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('scss/fonts/opensans_semibold_macroman/OpenSans-Semibold-webfont.woff') format('woff'),
+         url('scss/fonts/opensans_semibold_macroman/OpenSans-Semibold-webfont.ttf') format('truetype'),
+         url('scss/fonts/opensans_semibold_macroman/OpenSans-Semibold-webfont.svg#open_sanssemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'open-sans-regular';
+    src: url('scss/fonts/opensans_regular_macroman/OpenSans-Regular-webfont.eot');
+    src: url('scss/fonts/opensans_regular_macroman/OpenSans-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('scss/fonts/opensans_regular_macroman/OpenSans-Regular-webfont.woff') format('woff'),
+         url('scss/fonts/opensans_regular_macroman/OpenSans-Regular-webfont.ttf') format('truetype'),
+         url('scss/fonts/opensans_regular_macroman/OpenSans-Regular-webfont.svg#open_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'open-sans-light';
+    src: url('scss/fonts/opensans_light_macroman/OpenSans-Light-webfont.eot');
+    src: url('scss/fonts/opensans_light_macroman/OpenSans-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('scss/fonts/opensans_light_macroman/OpenSans-Light-webfont.woff') format('woff'),
+         url('scss/fonts/opensans_light_macroman/OpenSans-Light-webfont.ttf') format('truetype'),
+         url('scss/fonts/opensans_light_macroman/OpenSans-Light-webfont.svg#open_sanslight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
